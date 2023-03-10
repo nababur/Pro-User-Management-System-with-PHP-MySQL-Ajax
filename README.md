@@ -72,7 +72,7 @@
 <span>Nababur Rahaman</span>
 <ul>
   <li><a href='https://github.com/nababur'>Author profile</a></li>
-  <li><a href='nababurdev@gmail.com'>For any support or project email me nababurdev@gmail.com</a></li>
+  <li><a href='mailto:nababurdev@gmail.com'>For any support or project email me nababurdev@gmail.com</a></li>
   
 </ul>
 <h4>Buy me a coffee :) </h4>
