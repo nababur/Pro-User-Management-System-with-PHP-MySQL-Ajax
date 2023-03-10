@@ -41,6 +41,9 @@
 </ul>
 </div>
 
+<h3>Script Thumbnails::-</h3>
+ <hr>
+ 
 ![Login](https://user-images.githubusercontent.com/59913782/76703690-7f7ed900-66fd-11ea-894b-3e6fc4423817.png)
 ![Register](https://user-images.githubusercontent.com/59913782/76703763-2b282900-66fe-11ea-8a3f-d2f88dbc7640.png)
 ![Profile](https://user-images.githubusercontent.com/59913782/76703770-3c713580-66fe-11ea-92a7-7ce2e426ab62.png)
@@ -49,6 +52,7 @@
 
 <div class='install-script'>
   <h3>How to Install</h3>
+   <hr>
   <ul>
  <li>Create a database name (pro_usermanagent)</li>
  <li>Import database file (pro_usermanagent.sql)</li>
