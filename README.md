@@ -4,12 +4,6 @@
 <p>Pro User Management System is a powerful PHP Ajax script that offers a secure user management system. The application is a great way to build your website, allowing your users to register an account and build restricted access to certain users. We offer great support and it’s very easy to install. It’s powered by MYSQL and PHP, Ajax.</p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nababur&label=Visitor%20&color=0e75b6&style=flat" alt="nababur" /> </p>
-
-
-
-
-
 <div class="script-details">
   <h3>Script Features::-</h3>
   <hr>
