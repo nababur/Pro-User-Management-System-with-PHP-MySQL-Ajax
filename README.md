@@ -44,10 +44,14 @@
 <h3>Script Thumbnails::-</h3>
  <hr>
  
-![Login](https://user-images.githubusercontent.com/59913782/76703690-7f7ed900-66fd-11ea-894b-3e6fc4423817.png)
-![Register](https://user-images.githubusercontent.com/59913782/76703763-2b282900-66fe-11ea-8a3f-d2f88dbc7640.png)
-![Profile](https://user-images.githubusercontent.com/59913782/76703770-3c713580-66fe-11ea-92a7-7ce2e426ab62.png)
-![2020-03-15_203003](https://user-images.githubusercontent.com/59913782/76703775-5ad73100-66fe-11ea-856a-80bf259c281b.png)
+![login](https://user-images.githubusercontent.com/8381528/224330417-252ec32c-3f15-4d4f-9543-4e7fe19e0533.png)
+![Pass-reset](https://user-images.githubusercontent.com/8381528/224330420-c27548c9-cb08-428b-81c3-6bc5bbd93561.png)
+![registration](https://user-images.githubusercontent.com/8381528/224330910-a1af3a50-9044-40b3-b53a-ee39c835221a.png)
+![dashboard](https://user-images.githubusercontent.com/8381528/224330411-162a523b-dec0-4207-bb5e-7f556b0e9ab7.png)
+![create-new-user](https://user-images.githubusercontent.com/8381528/224330406-996b9ee0-85da-440d-855c-25f4e7587d67.png)
+![role](https://user-images.githubusercontent.com/8381528/224330422-10c31378-368a-415b-bf22-1ced8e2ca8d2.png)
+![users](https://user-images.githubusercontent.com/8381528/224330431-f3c85868-eb56-47c2-86e7-1a1565b374ea.png)
+![settings](https://user-images.githubusercontent.com/8381528/224330426-1faac7e4-df25-4cf5-a785-173f74477cb9.png)
 
 
 <div class='install-script'>
@@ -79,6 +83,7 @@
 
 
 </div>
+
 
 
 
