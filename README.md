@@ -57,7 +57,7 @@
  <li>Admin:Info</li>
  <li>Admin username: nababurdev@gmail.com</li>
  <li>Admin pass: An123456</li>
- <li><a href='https://youtu.be/Q-JQsoDwxgI'>Live video a Youtube</a></li>
+ <li><a href='https://www.youtube.com/@CodewithNababur'>Live video a Youtube</a></li>
  
 
 </ul>
