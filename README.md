@@ -72,7 +72,7 @@
 <h4>Buy me a coffee :) </h4>
 <p dir="auto">
   <a href="https://www.buymeacoffee.com/nababur" rel="nofollow">
-    <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*MgGIm08OdUTUvgNyaUl0hw.jpeg" alt="Buy Me A Coffee" width="195" height="55" data-canonical-src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*MgGIm08OdUTUvgNyaUl0hw.jpeg" style="max-width: 100%;">
+    <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*MgGIm08OdUTUvgNyaUl0hw.jpeg" alt="Buy Me A Coffee" width="225" height="225" data-canonical-src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*MgGIm08OdUTUvgNyaUl0hw.jpeg" style="max-width: 100%;">
   </a>
 </p>
 
